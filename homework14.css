@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+ul, ol{
+    list-style: none;
+}
+.content{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.qwq{
+    padding: 75px 0;
+}
+.fgf{
+    display: flex;
+    justify-content: center;
+}
+.kul{
+    color: #757575;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+letter-spacing: 0.42px;
+}
+.mal{
+    color: #212121;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 0.42px;
+text-transform: uppercase;
+margin-bottom: 10px;
+}
+.hah:not(:last-child){
+    margin-right: 30px;
+}
+.kart:not(:last-child){
+    margin-right: 30px;
+}
+.zamok{
+    color: #212121;
+text-align: center;
+font-family: Roboto;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 1.08px;
+margin-bottom: 35px;
+}
