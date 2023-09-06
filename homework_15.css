@@ -12,6 +12,9 @@ ul, ol{
     display: flex;
     justify-content: center;
 }
+.bodu{
+    background-color: gray;
+}
 .Team{
     color: #212121;
 text-align: center;
